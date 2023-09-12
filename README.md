@@ -1,2 +1,3 @@
 # Sentiment_Analysis
-Sentiment Analysis of British Airline Customer Review 
+
+The BeautifulSoup Library of Python was used to scrape sata from the British Airline link: [https://www.airlinequality.com/airline-reviews/british-airways]. The first 1000 customer reviews were collected and analyzed using NLTK tools for Natural Language Processing. Noisy entities like stopwords, punctuation, white spaces, and special characters were removed; text normalization such as stemming was done; and other necessary text cleaning techniques were employed. A sentiment analysis was done on the statements to group them into three categories as positive, negative, and neutral statements. The most talked-about words were visualized for proper understanding of the sentiments. The result of this project will not be the same as that of anyone who wants to explore it because the customer reviews on the site keep updating.
